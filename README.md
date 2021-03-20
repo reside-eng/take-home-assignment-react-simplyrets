@@ -1,7 +1,8 @@
 # Getting Started
 
-- Please read the PLEASE_READ_FIRST.md first
-- For any questions around Create React App (CRA), reference CREATE_REACT_APP.md
+- Please read the INSTRUCTIONS.md first
+- For any questions around Create React App (CRA), reference
+  CRA_DOCUMENTATION.md
 
 # Code and Design Decisions
 
