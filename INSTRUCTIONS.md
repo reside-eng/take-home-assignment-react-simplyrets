@@ -26,7 +26,7 @@ Before getting started, please read this document carefully.
 
 # Acceptance criteria
 
-- Using the router *(included as a dependency)*, create the following page:
+- Using [react-router](https://reactrouter.com/) *(included as a dependency)*, create the following page:
   Property Listings
   - NOTE: This page should be built with the consideration that other pages
     would eventually be added. Not looking for any over-engineering here, simply
