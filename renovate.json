@@ -1,6 +1,4 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": [
-    "local>reside-eng/renovate-config"
-  ]
+  "extends": ["github>reside-eng/renovate-config:take-home-assignment"]
 }
