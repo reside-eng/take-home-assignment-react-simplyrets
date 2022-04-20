@@ -1,6 +1,7 @@
-# Engineers who are responsible for reviewing any take-homes
-* @reside-eng/TakeHomeReviewers
+* @reside-eng/TakeHomeAdministrators
+
+/.github/ @reside-eng/Platform
 
 # Skip assigning dep updates (handled by Renovate)
-package.json
-yarn.lock
+/package.json
+/yarn.lock
