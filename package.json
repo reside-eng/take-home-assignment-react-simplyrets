@@ -14,7 +14,7 @@
   "repository": "https://github.com/reside-eng/take-home-assignment-react-simplyrets.git",
   "author": "Side Inc.",
   "dependencies": {
-    "bootstrap": "5.1.3",
+    "bootstrap": "5.2.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-router": "6.3.0",
