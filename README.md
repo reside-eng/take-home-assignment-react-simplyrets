@@ -28,3 +28,9 @@
 # Out of scope (Improvements)
 
 - Ability to inifite scroll (its assumed that there will be a lot more properties in production so the ability to poll for more properties as the user reaches the bottom of the page would be a nice user experience)
+  -Lazy Loading images for better performace (ex: `react-lazy-load-image-component`)
+
+# Accessibility
+
+- Unqiue Ids for Elements
+- Ability to favorite a photo with keyboard would be nice to have as well
