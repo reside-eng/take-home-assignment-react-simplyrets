@@ -34,3 +34,7 @@
 
 - Unqiue Ids for Elements
 - Ability to favorite a photo with keyboard would be nice to have as well
+
+# Maintainability
+
+- Typescript would be best for proper type safety.
