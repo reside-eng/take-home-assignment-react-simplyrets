@@ -79,8 +79,8 @@ Before getting started, please read this document carefully.
 # Submission
 
 Once you are satisfied with your assignment, please publish your code and README
-to a Git repository and send the repository link to the email our recruiter has
-provided.
+to your personal Git repository and send the repository link to the email our recruiter has
+provided. Please do not create a fork or PR in the assignment repository.
 
 # Getting Started
 
