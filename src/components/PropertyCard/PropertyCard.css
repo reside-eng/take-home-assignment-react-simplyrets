@@ -1,0 +1,10 @@
+.PropertyCardContainer {
+  position: relative;
+  max-width: 315px;
+}
+
+.FavoriteSection {
+  position: absolute;
+  top: 10px;
+  right: 8px;
+}
