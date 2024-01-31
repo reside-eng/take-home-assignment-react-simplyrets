@@ -1,0 +1,7 @@
+.StickyHeaderLayoutContents {
+  overflow: hidden;
+  overflow-y: scroll;
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+}

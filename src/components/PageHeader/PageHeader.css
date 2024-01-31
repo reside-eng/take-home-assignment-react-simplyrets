@@ -1,0 +1,26 @@
+.PageHeaderContainer {
+  background-color: #f4f4f4;
+  height: 103px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  position: fixed;
+  z-index: 999;
+  right: 0;
+  left: 0;
+}
+
+.HeadingText {
+  font-size: 28px;
+  color: var(--var-black-100);
+  text-transform: capitalize;
+  font-weight: 600;
+  padding-left: 30px;
+}
+
+@media (max-width: 650px) {
+  .HeadingText {
+    font-size: 14px;
+  }
+}

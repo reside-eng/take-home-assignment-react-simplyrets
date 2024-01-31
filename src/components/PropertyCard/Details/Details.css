@@ -1,0 +1,32 @@
+.PropertyCardDetailsContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.Price,
+.Address,
+.Dimension {
+  color: var(--var-black-100);
+}
+
+.Price {
+  font-weight: 700;
+  font-size: 26px;
+}
+
+.Dimension {
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.Address {
+  font-size: 15px;
+  font-weight: 400;
+  text-overflow: ellipsis;
+}
+
+.ListDate {
+  font-size: 14px;
+  font-weight: 400;
+  color: #979797;
+}
